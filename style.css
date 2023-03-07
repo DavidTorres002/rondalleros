@@ -1,0 +1,62 @@
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgba(139, 20, 20, 0.918);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: brown;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid whitesmoke;  /* creates padding around scroll thumb */
+  }
+
+footer{
+    background-color: antiquewhite;
+    align-items: center;
+    text-align: center;
+}
+
+body{
+  background-color: rgb(92, 54, 5);
+  cursor:url(/img/4.png);
+}
+
+.card-body{
+  background-color: rgb(189, 117, 24);
+}
+
+header{
+  background-color: aliceblue;
+  align-items: center;
+  text-align: center;
+  height: 70px;
+  align-content: center;
+  padding-top: 10px;
+}
+
+#colimg{
+  width: auto;
+  height: auto;
+}
+
+#coltext{
+  align-items: center;
+  text-align: center;
+}
+
+#a1{
+  align-items: center;
+  margin-left: 10px;
+
+}
+#a2{
+  align-items: center;
+  height: 95%;
+  margin-right: 5px;
+}
+
+#textal{
+  color: antiquewhite;
+}
